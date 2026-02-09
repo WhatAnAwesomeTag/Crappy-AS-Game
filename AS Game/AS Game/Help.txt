@@ -1,0 +1,20 @@
+﻿The object of the game is to control as many cities as you can after 20 moves. You can achieve this goal by creating units using money gained from controlling cities (you will make 3 money per city every turn)
+
+These units are; 
+- Soldier
+- Artillery
+- Tank
+
+Each unit has its own abilities (attack, range, movement etc.) which are shown on the "Create Unit" screen, which is accessed by clicking one of the cities that you control. 
+
+- Moving units
+Units are moved by clicking them and selecting an eligible square which that unit can move to. Only one unit can occupy a province at a time, and you cannot move through enemy units.
+
+- Attacking enemies
+If a province is occupied by an enemy unit then clicking on it will attack that enemy with the unit that you clicked on. Your unit will move then into that province if the enemy unit is destroyed.
+
+- Controlling cities
+You can take control of a city by moving one of your units onto its province, however you will not control that city until the next turn (i.e. you cannot create units on it until 1 turn has passed). You also cannot move a unit for a turn if it captured a city on that turn.
+
+- End of a game
+A game ends after 20 moves, and you will be given a score based on how many units you possess, how many cities you control and the amount of money you have remaining. This score will be added to and can be seen on the leaderboard.
